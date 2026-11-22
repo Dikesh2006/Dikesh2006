@@ -110,7 +110,7 @@ A platform designed to connect farmers with tractor and agricultural services th
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dikeshchoure&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
