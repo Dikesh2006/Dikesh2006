@@ -111,7 +111,7 @@ A platform designed to connect farmers with tractor and agricultural services th
 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dikesh2006&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Dikesh2006&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 
