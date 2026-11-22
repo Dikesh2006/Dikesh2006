@@ -89,6 +89,30 @@ A MERN-based application for discovering events, movies, booking halls, and mana
 A platform designed to connect farmers with tractor and agricultural services through online booking and management.
 
 ---
+📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dikesh2006&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dikesh2006&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Dikesh2006&theme=tokyonight&hide_border=true" />
+</p>
+
+📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dikesh2006&theme=tokyo-night&hide_border=true" />
+</p>
+
+🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dikesh2006&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 
 
