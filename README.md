@@ -93,8 +93,8 @@ A platform designed to connect farmers with tractor and agricultural services th
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dikeshchoure&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikeshchoure&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -102,9 +102,8 @@ A platform designed to connect farmers with tractor and agricultural services th
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
+  <img src="https://streak-stats.demolab.com?user=dikeshchoure&theme=tokyonight&hide_border=true" />
+</p
 ---
 
 ## 📈 Contribution Graph
@@ -118,9 +117,8 @@ A platform designed to connect farmers with tractor and agricultural services th
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dikeshchoure&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
-
 ---
 
 ## 🤝 Connect With Me
